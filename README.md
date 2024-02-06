@@ -20,7 +20,7 @@ I enjoy solving complex data problems.
 
 - **Cloud Platforms**: Amazon AWS
 - **Containerization**: Docker
-- **Platform as a Service **: Heroku
+- **Platform as a Service**: Heroku
 - **API Development**: FastAPI
 
 ## Data Management 
